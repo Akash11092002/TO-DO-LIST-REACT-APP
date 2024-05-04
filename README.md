@@ -10,10 +10,14 @@ Navigate to the project directory:
 Install dependencies:
 
 npm install
+
+
 Start the development server:
 
 npm start
-Usage
+
+
+
 Once the development server is running, you can access the Todo List app in your browser at http://localhost:3000. Here are some key features:
 
 Add tasks: Click on the "+" button to add new tasks.
